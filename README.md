@@ -1,4 +1,4 @@
-Integrantes:
+Integrante:
 
 Rodrigo Andres Pino Araya
 21.446.391-1
