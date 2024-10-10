@@ -1,3 +1,4 @@
+# Integrantes:
 # Rodrigo Pino Araya 21.446.391-1
 
 import requests          # Para realizar solicitudes HTTP a la API de búsqueda de MAC
